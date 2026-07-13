@@ -1,5 +1,5 @@
 # SQL / Advance_DATA_analysis_project
-
+[![TSQL](https://img.shields.io/badge/Language-TSQL-orange)]()
 
 This project demonstrates advanced SQL analysis techniques used to convert raw data into practical business insights. The work is organized around six complementary analytical approaches that support reporting, performance evaluation, segmentation, and decision-making.
 
